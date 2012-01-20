@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<compilation>
+    <brano id="1">
+        <titolo>canzone1</titolo>
+        <autore>pippo</autore>
+        <genere>rock</genere>
+        
+    </brano>
+    
+        <brano id="2">
+            <titolo>canzone2</titolo>
+            <autore>pluto</autore>
+            <genere>pop</genere>
+        </brano>
+        
+            <brano id="3">
+                <titolo>canzone3</titolo>
+                <autore>paperino</autore>
+                <genere>metal</genere>
+            </brano>
+</compilation>
